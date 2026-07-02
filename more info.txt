@@ -1,0 +1,14 @@
+to get api
+
+python scripts/deploy_and_setup.py
+
+python app/main_terminal.py
+
+
+
+pause
+6/5
+view 
+active history
+check balance
+dashboard
